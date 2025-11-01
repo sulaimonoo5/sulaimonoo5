@@ -42,21 +42,21 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=sulaimnonoo5&show_icons=true&theme=radical" 
+    src="https://github-readme-stats.vercel.app/api?username=sulaimonoo5&show_icons=true&theme=radical" 
     alt="GitHub stats"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=sulaimnonoo5&theme=radical" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=sulaimonoo5&theme=radical" 
     alt="GitHub streak"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulaimnonoo5&layout=compact&theme=radical" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulaimonoo5&layout=compact&theme=radical" 
     alt="Top Languages"
   />
 </p>
