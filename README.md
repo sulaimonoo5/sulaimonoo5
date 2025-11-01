@@ -13,13 +13,13 @@
 ### 🧠 About Me
 
 - 👂 My name is **Sulaymon Jonmahmadzoda**  
-- 🔭 I’m currently working on a **multi-chat AI web app**
-- 🌱 I’m currently learning **React & Tailwind CSS**
-- 🤝 I’m looking to collaborate on **frontend and AI projects**
+<!-- - 🔭 I’m currently working on a **multi-chat AI web app** -->
+<!-- - 🌱 I’m currently learning **React & Tailwind CSS** -->
+<!-- - 🤝 I’m looking to collaborate on **frontend and AI projects** -->
 - 💬 Ask me about **JavaScript, UI design, and web development**
-- 📫 How to reach me: [Telegram](https://t.me/yourhandle) | [Email](mailto:you@example.com)
-- ❤️ I love **creating minimal, interactive web experiences**
-- ⚡ Fun fact: **I always refactor my code before sleeping 😄**
+<!-- - 📫 How to reach me: [Telegram](https://t.me/yourhandle) | [Email](mailto:you@example.com) -->
+- ❤️ I love **creating minimal, interactive web experiences** 
+<!-- - ⚡ Fun fact: **I always refactor my code before sleeping 😄** -->
 
 ---
 
@@ -41,16 +41,26 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sulaimnonoo5&show_icons=true&theme=radical" alt="GitHub stats"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=sulaimnonoo5&show_icons=true&theme=radical" 
+    alt="GitHub stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sulaimnonoo5&theme=radical" alt="GitHub streak"/>
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=sulaimnonoo5&theme=radical" 
+    alt="GitHub streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulaimnonoo5&layout=compact&theme=radical" alt="Top Languages"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulaimnonoo5&layout=compact&theme=radical" 
+    alt="Top Languages"
+  />
 </p>
+
 
 ---
 
