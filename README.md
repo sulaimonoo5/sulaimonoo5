@@ -41,17 +41,17 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sulaymononoo5&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sulaimonoo5&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub stats"/>
 </p>
 
 ### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sulaymononoo5&theme=radical&hide_border=false" alt="GitHub streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sulaimonoo5&theme=radical&hide_border=false" alt="GitHub streak"/>
 </p>
 
 ### 🏆 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sulaymononoo5&layout=compact&langs_count=5&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulaimonoo5&layout=compact&langs_count=5&theme=radical" alt="Top Languages"/>
 </p>
 
 
