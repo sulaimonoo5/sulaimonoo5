@@ -41,26 +41,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=sulaimonoo5&show_icons=true&theme=radical" 
-    alt="GitHub stats"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sulaymononoo5&show_icons=true&theme=tokyonight&count_private=true&custom_title=My%20GitHub%20Stats" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=sulaimonoo5&theme=radical" 
-    alt="GitHub streak"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sulaymononoo5&theme=dracula&hide_border=true" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulaimonoo5&layout=compact&theme=radical" 
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sulaymononoo5&layout=compact&langs_count=5&theme=onedark" />
 </p>
-
 
 ---
 
